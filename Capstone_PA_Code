@@ -1,5 +1,5 @@
-%%This repository will be used for the capstone project
+## This notebook will be mainly used for the Capstone Project
 
 import pandas as pd
 import numpy as np
-Print("Hello Capstone Project Course!")
+print("Hello Capstone Project Course!")
